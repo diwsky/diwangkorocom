@@ -7,7 +7,7 @@ export default function Header() {
     <header className="sticky top-0 z-50 w-full border-b bg-white">
       <div className="container flex h-16 items-center px-4 md:px-6">
         <Link href="/" className="mr-6 flex items-center space-x-2">
-          <span className="text-xl font-bold">YourName</span>
+          <span className="text-xl font-bold">Diwangkoro</span>
         </Link>
         <nav className="hidden md:flex flex-1 items-center justify-between">
           <div className="flex gap-6">
@@ -26,7 +26,7 @@ export default function Header() {
           </div>
           <div className="flex items-center gap-2">
             <Button variant="outline" size="sm">
-              Subscribe
+              Laboratory
             </Button>
           </div>
         </nav>

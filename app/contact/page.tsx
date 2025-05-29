@@ -24,21 +24,14 @@ export default function ContactPage() {
                 <Mail className="h-5 w-5 text-gray-500 mt-0.5" />
                 <div>
                   <h3 className="font-medium">Email</h3>
-                  <p className="text-sm text-gray-500">your.email@example.com</p>
-                </div>
-              </div>
-              <div className="flex items-start gap-3">
-                <Phone className="h-5 w-5 text-gray-500 mt-0.5" />
-                <div>
-                  <h3 className="font-medium">Phone</h3>
-                  <p className="text-sm text-gray-500">+1 (555) 123-4567</p>
+                  <p className="text-sm text-gray-500">diwangkoro270@gmail.com</p>
                 </div>
               </div>
               <div className="flex items-start gap-3">
                 <MapPin className="h-5 w-5 text-gray-500 mt-0.5" />
                 <div>
                   <h3 className="font-medium">Location</h3>
-                  <p className="text-sm text-gray-500">San Francisco, CA</p>
+                  <p className="text-sm text-gray-500">Jakarta, Indonesia</p>
                 </div>
               </div>
             </div>

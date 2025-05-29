@@ -11,10 +11,10 @@ export default function Home() {
           <div className="flex flex-col md:flex-row items-center gap-8 md:gap-12">
             <div className="flex-1 space-y-4">
               <h1 className="text-3xl md:text-5xl font-bold tracking-tighter">
-                Hi, I'm <span className="text-gray-900">Your Name</span>
+                Hi, I'm <span className="text-gray-500">Diwang</span>
               </h1>
               <p className="text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                Welcome to my personal website. I'm a developer, writer, and thinker sharing my journey and insights
+                Welcome to my personal website. I'm a developer, trail runner, and thinker sharing my journey and insights
                 through my blog.
               </p>
               <div className="flex flex-col md:flex-row gap-3">
@@ -36,7 +36,7 @@ export default function Home() {
             <div className="flex-1 flex justify-center">
               <div className="relative w-[280px] h-[280px] md:w-[320px] md:h-[320px] rounded-full overflow-hidden border-4 border-white shadow-xl">
                 <Image
-                  src="/placeholder.svg?height=320&width=320"
+                  src="/profile.png?height=320&width=320"
                   alt="Profile"
                   fill
                   className="object-cover"
